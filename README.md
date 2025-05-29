@@ -14,19 +14,6 @@ A stylish front-end web layout for an **Interior Decor** website. This project i
 - 🎯 Clean, responsive design using HTML & CSS
 - 🛠️ Future support for JavaScript-based interactivity
 
----
-
-## 📁 Project Structure
-
-project/
-│
-├── index.html # Main HTML file
-├── styleid.css # CSS styling
-├── logo.jpg # (Image required for logo)
-├── decor.jpg # (Background image for banner)
-└── script.js # (Planned JavaScript functionality)
----
-
 ## 🚧 Planned Features
 
 - [ ] JavaScript-powered login and registration logic
